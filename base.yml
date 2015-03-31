@@ -1,5 +1,5 @@
 ---
-# This playbook deploys components needed for nova-docker. 
+# This playbook deploys components needed to install OpenStack Trove. 
 
 - hosts: controller
   user: root
